@@ -99,7 +99,7 @@
 
           Below, the computer scored six points by creating a stable compound.
 
-          ![chemistry game screenshot](demo-images/image9.png)
+          ![chemistry game screenshot](demo-images/image11.png)
 
     - **Abilities:**
       
@@ -107,7 +107,7 @@
         
       - **Restrict:** Select two tiles. Atoms cannot be played on those tiles for two turns. (For the rest of your turn until the start of your next turn.)
 
-        ![chemistry game screenshot](demo-images/image11.png)
+        ![chemistry game screenshot](demo-images/image9.png)
 
       - **Evolve:** Target an atom in your hand. Increase the period of that atom. (Same group but one period higher).
         
