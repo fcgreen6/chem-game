@@ -36,4 +36,5 @@
   - **Number of Bonds by Group:** Using the periodic table, you can tell how many times an atom can bond based on its group.
  
              |G1|G2|G3|G4|G5|G6|G7|
+        ---------------------------
         Bonds|1 |2 |3 |4 |3 |2 |1 | 
