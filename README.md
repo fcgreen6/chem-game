@@ -16,7 +16,7 @@
   - **Atomic Number:** The number of protons that an atom has. Each element has a different atomic number.
   - **The Periodic Table:** The periodic table is a way of organizing elements in chemistry. Elements are arranged according to their atomic number in ascending order. For example, in the representation below, you can see that hydrogen (H) has an atomic number of one.
  
-    ![chemistry game screenshot](demo-images/image2.png)
+    ![chemistry game](demo-images/image2.png)
     The rows on the periodic table are called periods and the columns are called groups. When it comes to groups, you can ignore the elements in the center of the periodic table as shown in the diagram above.
   - **Valence Electrons:** Atoms are made up of protons, neutrons, and electrons. Electrons specifically are important when it comes to creating compounds. All atoms have special electrons called valence electrons. Valence electrons, explained simply, are the electrons within an atom that determine its stability. The periodic table can be used to determine the number of valence electrons an atom has. An atom’s group number is equal to its valence electrons!  
   - **Ionic and Covalent Bonds:** The most stable number of valence electrons is typically eight. Because of this, atoms share their valence electrons to become more stable. 
