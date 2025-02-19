@@ -136,9 +136,9 @@
 
 ## **Difficulties and Solutions:**
 
-- The most difficult part of this assignment was using Rust for the first time. I had to rethink many problems during this assignment because Rust did not work how I expected. Despite these frustrations, my solution was to remain calm and apply what I learn about the language carefully.
+- The most difficult part of this project was using Rust for the first time. I had to rethink many problems during this assignment because Rust did not work how I expected. Despite these frustrations, my solution was to remain calm and apply what I learn about the language carefully.
   
-- A second challenging aspect of this assignment was the scope of the game. I underestimated the scope of my game, and it took longer to complete than expected.  There were times when I wanted to remove some of the functionality just to finish it faster, but I ultimately fully implemented my idea. My solution to the large scope of this assignment was to approach problems carefully and take my time. 
+- A second challenging aspect of this project was the scope of the game. I underestimated the scope of my game, and it took longer to complete than expected.  There were times when I wanted to remove some of the functionality just to finish it faster, but I ultimately fully implemented my idea. My solution to the large scope of this assignment was to approach problems carefully and take my time. 
 
 
 ## **The Good, the Bad, and the Ugly:** 
@@ -150,4 +150,4 @@
 
 ## **Learning Experience:** 
 
-- After learning from this assignment, one area that I could improve in my programming is composition. For this assignment, I made a variety of specific classes for different parts of the game. Because my classes were tailored to specific parts of the game, they did not always communicate smoothly with each other. I want to work on composition so that my code is more flexible across the entire program.
+- After learning from this project, one area that I could improve in my programming is composition. For this project, I made a variety of specific classes for different parts of the game. Because my classes were tailored to specific parts of the game, they did not always communicate smoothly with each other. I want to work on composition so that my code is more flexible across the entire program.
